@@ -1,6 +1,5 @@
 <!DOCTYPE html> 
 
-
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css" />
 
 <style>
@@ -48,18 +47,10 @@
   <div.b class="text-center">
   <h5>The man who helped build the Death Star.</h5>
     </div.b>
- 
-
   
-  
-  
-  
-  <div.c>
-<!--   still need to figure out how to center this picture   -->
-  
-  <img class="smaller-image thin-green-border" src="https://www.freemovement.org.uk/wp-content/uploads/2016/11/Death-Star-v2.jpg" alt="DeathStar">
-              
-
+    <div.c>
+        <!--   still need to figure out how to center this picture   -->
+        <img class="smaller-image thin-green-border" src="https://www.freemovement.org.uk/wp-content/uploads/2016/11/Death-Star-v2.jpg" alt="DeathStar">
     </div.c>
 
     <p class="time-line-intro">Here's a timeline of Dr. Brodie Sarn's life:</>
